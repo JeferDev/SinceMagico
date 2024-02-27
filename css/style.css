@@ -169,7 +169,7 @@ body
 .navbar-nav.menu >li.open.ico-conferencia > a,
 .navbar-nav.menu >li.active.ico-conferencia > a 
  {
-    background-image: url(../img/ico-conferencia.png);
+    background-image: url(../img/ico-conferencia.svg);
     background-position: 10px center;
     background-repeat: no-repeat;
 }
@@ -178,7 +178,7 @@ body
 .navbar-nav.menu >li.open.ico-articulo > a,
 .navbar-nav.menu >li.active.ico-articulo > a 
  {
-    background-image: url(../img/ico-articulo.png);
+    background-image: url(../img/ico-imagen.svg);
     background-position: 10px center;
     background-repeat: no-repeat;
 }
@@ -187,7 +187,7 @@ body
 .navbar-nav.menu >li.open.ico-agenda > a,
 .navbar-nav.menu >li.active.ico-agenda > a 
  {
-    background-image: url(../img/ico-agenda.png);
+    background-image: url(../img/ico-bus.svg);
     background-position: 10px center;
     background-repeat: no-repeat;
 }
@@ -196,7 +196,7 @@ body
 .navbar-nav.menu >li.open.ico-pregunta > a,
 .navbar-nav.menu >li.active.ico-pregunta > a 
  {
-    background-image: url(../img/ico-pregunta.png);
+    background-image: url(../img/ico-contact.svg);
     background-position: 10px center;
     background-repeat: no-repeat;
 }
@@ -1209,7 +1209,7 @@ object-fit: cover;
 }
 
 .image-slider {
-height: 100vh;
+height: 100%;
 }
 
 .image-slide {
